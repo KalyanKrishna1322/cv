@@ -1,0 +1,25 @@
+
+body{
+    background-color: #B83B5E ;
+}
+li{
+    color: #6A2C70;
+}
+th{
+    color: #6A2C70;
+}
+h3{
+    color: #FAEEE7;
+}
+hr{
+    border-style: dotted none none;
+    width: 30%;
+    height: 2px;
+    border-width: 5px;
+    color: grey;
+    
+}
+a{
+    background-color: rgba(250, 238, 215, 0.729);
+    color: #6A2C70;
+}
